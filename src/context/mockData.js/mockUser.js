@@ -29,9 +29,9 @@ export default {
   bio: "Passionate front-end web developer with 3 years of experience using JavaScript, React.Js, Typescript, HTML5, SASS to build all aspects of the user experience.",
   twitter_username: "ankitharitus",
   public_repos: 7,
-  public_gists: 0,
-  followers: 0,
-  following: 0,
+  public_gists: 9,
+  followers: 12,
+  following: 12,
   created_at: "2019-03-12T13:23:05Z",
   updated_at: "2021-09-23T12:49:51Z",
 };
